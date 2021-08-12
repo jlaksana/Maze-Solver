@@ -22,7 +22,7 @@ Maze constraints:
 Instructions:
  1. Have Python 3.6 or later and the Pillow module installed
  2. Put image of maze in the mazes folder
- 3. Run the file
+ 3. Run the file maze_solver.py
  4. Input the name of the file. Wait for program to parse the maze
  5. Input the name of the algorithm you want to use (dfs, bfs, dijkstra, or astar)
  6. Wait for program to solve.
@@ -36,9 +36,9 @@ Notes:
  - Not all solutions for every algorithm for every maze are included in this repository
 
 Resources:
-https://www.youtube.com/watch?v=rop0W4QDOUI&list=PLpxeghl7_0IXWkeE8K-XGl2YRxqTo5IJL&index=9
-https://www.youtube.com/watch?v=GazC3A4OQTE&list=PLpxeghl7_0IXWkeE8K-XGl2YRxqTo5IJL&index=10
-https://www.youtube.com/watch?v=ySN5Wnu88nE&list=PLpxeghl7_0IXWkeE8K-XGl2YRxqTo5IJL&index=11
+https://youtu.be/rop0W4QDOUI 
+https://youtu.be/GazC3A4OQTE 
+https://youtu.be/ySN5Wnu88nE 
 https://github.com/mikepound/mazesolving
 
 """
