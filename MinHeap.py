@@ -4,7 +4,6 @@ class MinHeap:
 
     def __init__(self, capacity: int = 50):
         """Constructor creating an empty heap with default capacity = 50 but allows heaps of other capacities to be created."""
-        # self.heap: List = [0]*(capacity+1)
         self.values: List = [None]*(capacity+1)
         self.keys: List = [0]*(capacity+1)
         self.map = {}   #stores the index of every value
