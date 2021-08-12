@@ -17,7 +17,7 @@ Maze constraints:
 Instructions:
  1. Have Python 3.6 or later and the Pillow module installed
  2. Put image of maze in the mazes folder
- 3. Run the file
+ 3. Run the file maze_solver.py
  4. Input the name of the file. Wait for program to parse the maze
  5. Input the name of the algorithm you want to use (dfs, bfs, dijkstra, or astar)
  6. Wait for program to solve.
